@@ -1,3 +1,11 @@
+# Desktop Preview of the login page.
+
+![desktop preview](https://github.com/srikanthsarma/AimedLabs-assesment/blob/main/src/assets/login-page__desktop.png)
+
+# Mobile Preview of the login page.
+
+![mobile preview](https://github.com/srikanthsarma/AimedLabs-assesment/blob/main/src/assets/login-page__mobile.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
